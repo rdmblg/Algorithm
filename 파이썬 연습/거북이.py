@@ -1,0 +1,10 @@
+import turtle as t
+t.shape("turtle")
+t.speed(1)
+t.color("blue")
+t.forward(100)
+t.left(60)
+t.left(60)
+t.forward(100)
+t.left(120)
+t.forward(100)
